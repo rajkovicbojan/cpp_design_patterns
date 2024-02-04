@@ -1,6 +1,0 @@
-/home/bojan/Documents/cpp_design_patterns/adapter_1/build/CMakeFiles/MyLibDevice.dir
-/home/bojan/Documents/cpp_design_patterns/adapter_1/build/CMakeFiles/MyLibOldDevice.dir
-/home/bojan/Documents/cpp_design_patterns/adapter_1/build/CMakeFiles/MyLibDeviceAdapter.dir
-/home/bojan/Documents/cpp_design_patterns/adapter_1/build/CMakeFiles/MyExample.dir
-/home/bojan/Documents/cpp_design_patterns/adapter_1/build/CMakeFiles/edit_cache.dir
-/home/bojan/Documents/cpp_design_patterns/adapter_1/build/CMakeFiles/rebuild_cache.dir
