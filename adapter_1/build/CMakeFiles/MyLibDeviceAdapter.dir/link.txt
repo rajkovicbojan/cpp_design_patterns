@@ -1,0 +1,2 @@
+/usr/bin/ar qc libMyLibDeviceAdapter.a CMakeFiles/MyLibDeviceAdapter.dir/device_adapter.cpp.o
+/usr/bin/ranlib libMyLibDeviceAdapter.a

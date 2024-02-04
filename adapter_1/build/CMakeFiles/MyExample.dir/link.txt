@@ -1,0 +1,1 @@
+/usr/bin/g++ -g CMakeFiles/MyExample.dir/main.cpp.o -o MyExample  libMyLibDevice.a libMyLibOldDevice.a libMyLibDeviceAdapter.a libMyLibOldDevice.a 

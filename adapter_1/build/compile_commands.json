@@ -1,0 +1,22 @@
+[
+{
+  "directory": "/home/bojan/Documents/cpp_design_patterns/adapter_1/build",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/MyLibOldDevice.dir/old_device.cpp.o -c /home/bojan/Documents/cpp_design_patterns/adapter_1/old_device.cpp",
+  "file": "/home/bojan/Documents/cpp_design_patterns/adapter_1/old_device.cpp"
+},
+{
+  "directory": "/home/bojan/Documents/cpp_design_patterns/adapter_1/build",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/MyLibDevice.dir/device.cpp.o -c /home/bojan/Documents/cpp_design_patterns/adapter_1/device.cpp",
+  "file": "/home/bojan/Documents/cpp_design_patterns/adapter_1/device.cpp"
+},
+{
+  "directory": "/home/bojan/Documents/cpp_design_patterns/adapter_1/build",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/MyLibDeviceAdapter.dir/device_adapter.cpp.o -c /home/bojan/Documents/cpp_design_patterns/adapter_1/device_adapter.cpp",
+  "file": "/home/bojan/Documents/cpp_design_patterns/adapter_1/device_adapter.cpp"
+},
+{
+  "directory": "/home/bojan/Documents/cpp_design_patterns/adapter_1/build",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/MyExample.dir/main.cpp.o -c /home/bojan/Documents/cpp_design_patterns/adapter_1/main.cpp",
+  "file": "/home/bojan/Documents/cpp_design_patterns/adapter_1/main.cpp"
+}
+]

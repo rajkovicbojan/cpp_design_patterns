@@ -1,0 +1,2 @@
+/usr/bin/ar qc libMyLibOldDevice.a CMakeFiles/MyLibOldDevice.dir/old_device.cpp.o
+/usr/bin/ranlib libMyLibOldDevice.a
