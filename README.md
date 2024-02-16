@@ -1,5 +1,5 @@
 # cpp_design_patterns
-This repo contains some simple example of c++ design patterns.
+This repo contains some simple examples of c++ design patterns.
 
 There are following design paterns:
 1. adapter_1
